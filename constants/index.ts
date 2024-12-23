@@ -27,3 +27,21 @@ export const footerLinks = [
       ],
     },
   ];
+  export const manufacturers = [
+    "Acura",
+    "Alfa Romeo",
+    "Aston Martin",
+    "Audi",
+    "Bentley",
+    "BMW",
+    "Buick",
+    "Cadillac",
+    "Chevrolet",
+    "Chrysler",
+    "Citroen",
+    "Dodge",
+    "Ferrari",
+    "Fiat",
+
+ 
+  ];
